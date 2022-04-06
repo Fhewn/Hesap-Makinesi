@@ -32,3 +32,70 @@ sayi2=Convert.ToDouble(Console.ReadLine());
 sonuc=sayi1+sayi2;
 Console.Write("Sonuç={0}",sonuc);
 }
+  else if(secim == 2)
+  {
+  Console.Clear();
+Console.WriteLine("****************");
+Console.WriteLine("Seçilen İşlem Çıkarma İşlemi");
+Console.WriteLine("****************");
+Console.Write("1.Sayıyı Giriniz");
+sayi1=Convert.ToDouble(Console.ReadLine());
+Console.Write("2.Sayıyı Giriniz");
+sayi2=Convert.ToDouble(Console.ReadLine());
+sonuc=sayi1-sayi2;
+Console.Write("Sonuç={0}",sonuc);
+  }
+else if(secim == 3)
+    {
+  Console.Clear();
+Console.WriteLine("****************");
+Console.WriteLine("Seçilen İşlem Çarpma İşlemi");
+Console.WriteLine("****************");
+Console.Write("1.Sayıyı Giriniz");
+sayi1=Convert.ToDouble(Console.ReadLine());
+Console.Write("2.Sayıyı Giriniz");
+sayi2=Convert.ToDouble(Console.ReadLine());
+sonuc=sayi1*sayi2;
+Console.Write("Sonuç={0}",sonuc);
+  }
+  else if(secim == 3)
+    {
+  Console.Clear();
+Console.WriteLine("****************");
+Console.WriteLine("Seçilen İşlem Çarpma İşlemi");
+Console.WriteLine("****************");
+Console.Write("1.Sayıyı Giriniz");
+sayi1=Convert.ToDouble(Console.ReadLine());
+Console.Write("2.Sayıyı Giriniz");
+sayi2=Convert.ToDouble(Console.ReadLine());
+sonuc=sayi1*sayi2;
+Console.Write("Sonuç={0}",sonuc);
+  }
+  else if(secim == 3)
+    {
+  Console.Clear();
+Console.WriteLine("****************");
+Console.WriteLine("Seçilen İşlem Çarpma İşlemi");
+Console.WriteLine("****************");
+Console.Write("1.Sayıyı Giriniz");
+sayi1=Convert.ToDouble(Console.ReadLine());
+Console.Write("2.Sayıyı Giriniz");
+sayi2=Convert.ToDouble(Console.ReadLine());
+sonuc=sayi1*sayi2;
+Console.Write("Sonuç={0}",sonuc);
+  }
+    else if(secim == 4)
+    {
+  Console.Clear();
+Console.WriteLine("****************");
+Console.WriteLine("Seçilen İşlem Bölme İşlemi");
+Console.WriteLine("****************");
+Console.Write("1.Sayıyı Giriniz");
+sayi1=Convert.ToDouble(Console.ReadLine());
+Console.Write("2.Sayıyı Giriniz");
+sayi2=Convert.ToDouble(Console.ReadLine());
+sonuc=sayi1/sayi2;
+Console.Write("Sonuç={0}",sonuc);
+  }
+  
+  
