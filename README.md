@@ -1,4 +1,4 @@
 # Hesap-Makinesi
 ```
-Yakında Gelecek
+C# küçük çaplı bir hesap makinası
 ```
